@@ -1,0 +1,5 @@
+br/com/ong/modelo/Noticia.class
+br/com/ong/Application.class
+br/com/ong/modelo/Product.class
+br/com/ong/dao/ProductRepository.class
+br/com/ong/dao/NoticiaRepository.class
